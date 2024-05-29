@@ -32,7 +32,7 @@ Install the dependencies and devDependencies to run the test.
 Clone the repository
 
 ```bash
-git clone https://github.com/maddyvenky7/PlaywrightAutomation.git
+git clone https://github.com/maddyvenky7/interviews.git
 ````
 
 Install dependencies
